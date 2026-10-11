@@ -8,7 +8,7 @@ from telegram import Update
 from telegram.ext import ApplicationBuilder, CommandHandler, MessageHandler, filters, ContextTypes
 
 # --- CONFIGURAÇÕES DO BOT ---
-TELEGRAM_TOKEN = "8992743644:AAHdlu5_p0i1QI2B5t029Onyv9xvdgxJ7PQ"
+TELEGRAM_TOKEN = "8319814135:AAFJwO4QfRR2iJ3fdW29RQZFIROgBagM5aE"
 ML_AFFILIATE_TAG = "kktechsuportetotal"
 
 # SE SOUBER O ID NUMÉRICO (EX: "-100123456789"), COLOQUE ABAIXO.
